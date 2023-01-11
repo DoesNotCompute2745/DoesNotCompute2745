@@ -14,7 +14,7 @@ My name is Eva, 27 years old, I am a developer who likes to code in Front-end an
 - 👯 I’m looking to collaborate on a cool project for a pixel art video game.:space_invader:
 - 🤔 I’m looking for help with front-end.
 - 💬 Ask me about back-end, html, css and video games.
-- 📫 How to reach me: @
+- 📫 How to reach me: @EvaB2745.
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: When I was a kid, I took a Playstion 1 apart with a screwdriver because I wanted to see what was inside and then I also wanted to put it back together to make it work. 🎮
 
@@ -22,7 +22,7 @@ My name is Eva, 27 years old, I am a developer who likes to code in Front-end an
 
 - I finished a training in the school "O'clock", which trains for the profession of web developer and I code of course on my side and i also obtained the back part of the Professional Title of Web and Mobile Web Developer and I train to be able to master the front as well :muscle:
 - I'm also working on a pixel art video game project in my free time, I would like to be able to release a version before the end of the year.
-- I Love Old Aesthetic like 80's, 90's, Music like V A P O R W A V E and S Y N T H W A V E, Old Video Games and of course The Simpsons, a lot. 
+- I Love Old Aesthetic like 80's, 90's, Music like  V A P O R W A V E  and  S Y N T H W A V E,  Old Video Games and of course The Simpsons, a lot. 
 
 <img src="https://media.giphy.com/media/l2Je3TK1IJz5bqbm0/giphy.gif"/>
 
