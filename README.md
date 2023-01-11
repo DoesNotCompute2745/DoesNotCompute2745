@@ -1,10 +1,12 @@
 # Hi every one 👋
 
+<img src="https://media.giphy.com/media/lArQw5Z7Ejb0c/giphy.gif"/>
+
 ## About me:
 
 My name is Eva, 27 years old, I am a developer who likes to code in Front-end and Back-end 💜 🙋‍♀️
 
-<ilg src ="https://media.giphy.com/media/qa0xvSMNC3Ltm/giphy.gif"/>
+<ilg src ="https://media.giphy.com/media/xT5LMxHXgSQk16WDks/giphy.gif"/>
 
 - 💻 The technologies I use and like: HTML5, CSS3, Javascript, SQL, and Python
 - 💿The Framwork I use: Node.js, Express.js and Bootstrap.
